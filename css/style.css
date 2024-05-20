@@ -381,6 +381,23 @@ h3.my-profession{
     height: 400px;
 }
 
+.home-info .social-icons-footer {
+    margin-top: 20px;
+    margin-bottom: 20px;
+    padding: 0;
+    display: flex;
+    justify-content: flex-start;
+    list-style: none;
+}
+
+.home-info .social-icons-footer li {
+    margin: 0 10px;
+}
+
+.home-info .social-icons-footer li a {
+    color: var(--skin-color);
+    font-size: 24px;
+}
 
 /* Sobre Mim */
 
